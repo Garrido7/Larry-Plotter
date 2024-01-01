@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que ya hay pocos.
 
-** D. Marino Garrido **
+** D. Marino Garrido ** Flipao del Git
